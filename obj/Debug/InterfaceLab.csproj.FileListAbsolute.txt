@@ -1,0 +1,16 @@
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe.config
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\bin\Debug\InterfaceAbstract.pdb
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceLab.csproj.AssemblyReference.cache
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceLab.csproj.CoreCompileInputs.cache
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.exe
+C:\Users\hugeMordor\Downloads\InterfaceAbstract\InterfaceAbstract\obj\Debug\InterfaceAbstract.pdb
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\bin\Debug\InterfaceLab.exe.config
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\bin\Debug\InterfaceLab.exe
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\bin\Debug\InterfaceLab.pdb
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\obj\Debug\InterfaceLab.csproj.AssemblyReference.cache
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\obj\Debug\InterfaceLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\obj\Debug\InterfaceLab.csproj.CoreCompileInputs.cache
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\obj\Debug\InterfaceLab.exe
+C:\Users\hugeMordor\Downloads\InterfaceLab\InterfaceLab\obj\Debug\InterfaceLab.pdb

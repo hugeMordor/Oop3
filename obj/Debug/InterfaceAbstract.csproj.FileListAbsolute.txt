@@ -1,0 +1,7 @@
+W:\1.GRSU\OOP\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe.config
+W:\1.GRSU\OOP\InterfaceAbstract\bin\Debug\InterfaceAbstract.exe
+W:\1.GRSU\OOP\InterfaceAbstract\bin\Debug\InterfaceAbstract.pdb
+W:\1.GRSU\OOP\InterfaceAbstract\obj\Debug\InterfaceAbstract.csproj.AssemblyReference.cache
+W:\1.GRSU\OOP\InterfaceAbstract\obj\Debug\InterfaceAbstract.csproj.CoreCompileInputs.cache
+W:\1.GRSU\OOP\InterfaceAbstract\obj\Debug\InterfaceAbstract.exe
+W:\1.GRSU\OOP\InterfaceAbstract\obj\Debug\InterfaceAbstract.pdb
